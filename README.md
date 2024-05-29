@@ -18,3 +18,9 @@ Navigate to the LinkedIn feed and see the profile pictures replaced.
 ![Before]![before_linkdin](https://github.com/rahulyadav232/linkdin_profile_change/assets/68394509/f1579258-1c52-463d-b6b4-453cecd0df61)
 
 ![After]![after_linkdin](https://github.com/rahulyadav232/linkdin_profile_change/assets/68394509/ba51b723-c0de-47da-817e-cc79c075392c)
+
+![Video demo] 
+
+https://github.com/rahulyadav232/linkdin_profile_change/assets/68394509/416f74eb-c2ed-438f-bfb0-1be29ad25d13
+
+
